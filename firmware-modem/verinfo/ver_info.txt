@@ -1,0 +1,22 @@
+{
+    "Image_Build_IDs": {
+        "adsp": "ADSP.8953.2.8.2-00017-00000-1", 
+        "apps": "LA.UM.5.3-03110-89xx.0-1", 
+        "boot": "BOOT.BF.3.3-00157-M8917LAAAANAZB-1", 
+        "common": "MSM8937.LA.1.0.1-00310-STD.PROD-1", 
+        "cpe": "CPE.TSF.1.0-00035-W9335AAAAAAAZQ-1", 
+        "glue": "GLUE.MSM8937_LA.1.0.1-00026-NOOP_TEST-1", 
+        "modem": "MPSS.JO.1.2.c2-00073-8937_GENNS_PACK-1", 
+        "rpm": "RPM.BF.2.2-00196-M8937AAAAANAZR-1", 
+        "tz": "TZ.BF.4.0.5-00009-M8937AAAAANAZT-2", 
+        "video": "VIDEO.VE_ULT.3.1-00020-PROD-1", 
+        "wapi": "WLAN.ADDON_PR.3.0-00004-M8953BAAAANAZW-1", 
+        "wcnss": "CNSS.PR.4.0-00227-M8953BAAAANAZW-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "MSM8937.LA.1.0.1-00310-STD.PROD-1", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2020-06-04 04:49:15"
+    }, 
+    "Version": "1.0"
+}
